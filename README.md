@@ -59,5 +59,3 @@ which skills are in demand and how the technology landscape is evolving.
 - Continuous learning is critical due to rapidly changing technology requirements  
 
 ---
-
-Example:
