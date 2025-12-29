@@ -80,5 +80,10 @@ This project includes interactive dashboards that visualize:
 - Database adoption trends
 - Developer demographics and geographic distribution
 
-```md
-![Dashboard Preview](images/dashboard_overview.png)
+---
+
+Note: The data cleaning, analysis, and visualization steps were performed
+using IBM Skills Network labs and BI tools as part of the IBM Data Analyst
+Professional Certificate. Due to platform constraints, intermediate code
+files are not exported separately.
+
